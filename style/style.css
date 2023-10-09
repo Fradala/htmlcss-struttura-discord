@@ -145,23 +145,40 @@ header{
 }
 
 .ultima-parte{
-
+    background-color: rgb(31, 4, 4);
+    padding-top: 20px;
+    
    
 
 }
 
 .rettangolo-verde{
     margin: auto;
-    width: 640px;
+    width: 630px;
     height: 100px;
-    color: green;
+    background-color: green;
     border: 1px dashed black;
+    justify-content: space-between;
+    
+    align-items: center;
 }
 
 .logo-sotto{
     border: 1px dashed black;
-    width: 25%;
-    height: 100%;
+    width: 40px;
+    background-color: salmon;
+    padding: 2px 2px 2px 4px;
+    
+   
+}
+
+.bottone{
+    border: 1px dashed black;
+    width: 60px;
+    background-color: salmon;
+    padding: 2px 2px 2px 4px;
+   
+    
     
 
 }
