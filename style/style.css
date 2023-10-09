@@ -23,12 +23,37 @@ header{
     width: 50%;
     height: 50%;
     background-color: yellow;
-    border: 1px dashed black;
+    
 }
 
 .logo{
+    border: 1px dashed black;
+    width: 25%;
+    height: 100%;
+    align-self: flex-start;
+    padding: 2px 0 2px 4px;
+}
+
+.link{
+    border: 1px dashed black;
+    width: 50%;
+    height: 100%;
+    align-self: center;
+    text-align: center;
+    padding: 2px 0 2px;
+}
+
+.login{
+    border: 1px dashed black;
+    width: 25%;
+    height: 100%;
+    align-self: flex-end;
+    text-align: end;
+    padding: 2px 4px 0 2px;
 
 }
+
+
 
 
 
@@ -117,7 +142,18 @@ header{
     border: 1px dashed white;
     width: 80px;
     height: 500px;;
+}
+
+.ultima-parte{
+
+   
 
 }
 
+.rettangolo-verde{
+    margin: auto;
+    width: 100px;
+    height: 50px;
+    color: green;
+}
 
