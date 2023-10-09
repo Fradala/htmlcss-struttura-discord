@@ -152,8 +152,16 @@ header{
 
 .rettangolo-verde{
     margin: auto;
-    width: 100px;
-    height: 50px;
+    width: 640px;
+    height: 100px;
     color: green;
+    border: 1px dashed black;
 }
 
+.logo-sotto{
+    border: 1px dashed black;
+    width: 25%;
+    height: 100%;
+    
+
+}
