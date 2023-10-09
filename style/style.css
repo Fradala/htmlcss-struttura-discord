@@ -47,22 +47,51 @@ header{
 
 }
 
-.azzurro{
-    
-    
+.grigio{
+    background-color: lightgrey;
+}
+
+.grande{
     width: 30%;
     height: 80%;
+}
+
+.azzurro{
     background-color: aqua;
     border: 1px dashed black;
 }
 
-.rosa{
-   
-    
+.piccolo{
     width: 20%;
     height: 80%;
+}
+
+.rosa{
     background-color: lightpink;
     border: 1px dashed black;
 }
+
+.contenitore-grande{
+    width: 100%;
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+}
+
+.verde{
+    height: 60%;
+    width: 60%;
+    
+    background-color: green;
+    border: 1px dashed black;
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+
 
 
