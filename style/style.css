@@ -4,3 +4,38 @@
     box-sizing: border-box;
 }
 
+header{
+    height: 50px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.intestazione{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    background-color: yellow;
+}
+
+.primo-rettangolo{
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+}
+
+.rettangolo-rosa{
+    margin: auto;
+    width: 40%;
+    height: 80%;
+    background-color: lightpink;
+    border: 1px dashed black ;
+}
+
