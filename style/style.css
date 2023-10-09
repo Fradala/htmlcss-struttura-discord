@@ -73,25 +73,29 @@ header{
 
 .contenitore-grande{
     width: 100%;
-    height: 800px;
+    height: 600px;
     justify-content: center;
     align-items: center;
 }
 
 .verde{
-    height: 60%;
-    width: 60%;
+    margin-top: 20px;
+    height: 90%;
+    width: 50%;
     
     background-color: green;
     border: 1px dashed black;
 }
 
-footer{
-    background-color: black;
+
+.parte-finale{
+    background-color: rgb(31, 4, 4);
     width: 100%;
-    height: 100%;
+    height: 1000px;
 }
 
+.rettangolo-arancio{
+    height: 80%;
+    
 
-
-
+}
